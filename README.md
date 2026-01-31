@@ -39,26 +39,7 @@ pip install customtkinter psutil
    python auramonitor.py
    ```
 
-## 🛠️ Built With
-
-- [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - Modern UI components for Tkinter.
-- [Psutil](https://github.com/giampaolo/psutil) - Cross-platform library for process and system monitoring.
-- [Threading](https://docs.python.org/3/library/threading.html) - For real-time asynchronous background updates.
-
-## 🤝 Contributing
-
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## 📜 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
----
-
-Built with ❤️ by your Name / [Your GitHub](https://github.com/quatistrt)
